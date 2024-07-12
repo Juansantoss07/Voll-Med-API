@@ -1,4 +1,4 @@
-![Programação-Formação Java](imgs-readme\banner-readme.png)
+![Programação-Formação Java](/imgs-readme/banner-readme.png)
 
 # Spring Boot 3: desenvolva uma API Rest em Java
 
