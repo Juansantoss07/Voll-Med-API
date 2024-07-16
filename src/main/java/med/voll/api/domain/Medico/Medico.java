@@ -6,7 +6,7 @@ import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 import med.voll.api.domain.Endereco.Endereco;
 
-@Entity(name = "medicos")
+@Entity
 @Table(name = "medicos")
 @NoArgsConstructor
 @AllArgsConstructor
